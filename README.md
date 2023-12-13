@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=maelgff&theme=dark&border_radius=50&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=maelgff&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 <!--
 **maelgff/maelgff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
