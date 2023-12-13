@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Mael and I'm currently Lead Front @Lydia. I'm passionate about tech, front-end and sports in any kind ⚡
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=maelgff&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 <!--
