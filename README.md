@@ -38,8 +38,6 @@ My name is Mael and I'm currently Lead Front @Lydia. I'm passionate about tech, 
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/heroku/430098" height="30" alt="heroku logo"  />
-  <img width="10" />
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="30" alt="netlify logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
